@@ -4,7 +4,7 @@ Simple Converter made in Java
 ## How to use
 1. Download the release and execute the run.bat (on Windows)
 
-###or
+## or
 
 1. Clone the repo
 2. Compile it on your own
