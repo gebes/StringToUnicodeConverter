@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StringToUnicodeConverter:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="StringToUnicodeConverter.jar">
+      <element id="module-output" name="StringToUnicodeConverter" />
+    </root>
+  </artifact>
+</component>
