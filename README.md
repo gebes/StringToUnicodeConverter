@@ -1,10 +1,11 @@
 # StringToUnicodeConverter
-Simple Converter made in Java
+Simple Converter made in Java.
+Requires Java 11 or higher
 
 ## How to use
-1. Download the release and execute the run.bat (on Windows)
+1. Download the release, **unzip it**, and execute the run.bat (on Windows)
 
-## or
+### or
 
 1. Clone the repo
 2. Compile it on your own
